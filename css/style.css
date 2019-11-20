@@ -8003,7 +8003,7 @@ body {
   font-family: "Nunito Sans", Arial, sans-serif;
   background: #fff;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1;
   font-weight: 400;
   color: #999999; }
   body.menu-show {
@@ -8024,7 +8024,7 @@ a {
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  line-height: 1.5;
+  line-height: 1;
   color: rgba(0, 0, 0, 0.9);
   font-weight: 400; }
 
